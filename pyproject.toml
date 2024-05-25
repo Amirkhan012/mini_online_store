@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "mini-online-store"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+django = "^5.0.6"
+djangorestframework = "^3.15.1"
+celery = "^5.4.0"
+psycopg2-binary = "^2.9.9"
+python-dotenv = "^1.0.1"
+drf-yasg = "^1.21.7"
+djangorestframework-simplejwt = "^5.3.1"
+django-extensions = "^3.2.3"
+
+
+[tool.poetry.group.dev.dependencies]
+docker = "^7.0.0"
+pytest = "^8.2.0"
+pytest-django = "^4.8.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
