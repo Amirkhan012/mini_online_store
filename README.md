@@ -146,7 +146,7 @@ EMAIL_PORT: Порт для подключения к почтовому сер�
         "discount_price": "650.00",
         "stock": 100,
         "description": "A new smartphone",
-        "categories": [1, 2]
+        "categories": ['Электроника']
     }
     ```
 - **Пример ответа:**
@@ -158,7 +158,7 @@ EMAIL_PORT: Порт для подключения к почтовому сер�
         "discount_price": "650.00",
         "stock": 100,
         "description": "A new smartphone",
-        "categories": [1, 2]
+        "categories": ['Электроника']
     }
     ```
 
@@ -182,7 +182,7 @@ EMAIL_PORT: Порт для подключения к почтовому сер�
                 "discount_price": "650.00",
                 "stock": 100,
                 "description": "A new smartphone",
-                "categories": [1, 2]
+                "categories": ['Электроника']
             }
         ]
     }
@@ -202,7 +202,7 @@ EMAIL_PORT: Порт для подключения к почтовому сер�
         "discount_price": "600.00",
         "stock": 80,
         "description": "An updated smartphone",
-        "categories": [1, 3]
+        "categories": ['Электроника']
     }
     ```
 - **Пример ответа:**
@@ -214,7 +214,7 @@ EMAIL_PORT: Порт для подключения к почтовому сер�
         "discount_price": "600.00",
         "stock": 80,
         "description": "An updated smartphone",
-        "categories": [1, 3]
+        "categories": ['Электроника']
     }
     ```
 
