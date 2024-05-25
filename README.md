@@ -1,4 +1,4 @@
-# mini_online_store# Mini Online Store API
+# Mini Online Store API
 
 ## Описание
 
